@@ -53,8 +53,9 @@ dependencies:
 
   # Bu paket local depolama işlemleri için kullanılmıştır.
   shared_preferences: ^2.2.1
+
+  # Bu paket görsellere erişmek için kullanılmıştır.
   flutter_svg: ^2.0.7
-  cached_network_image: ^3.3.0
 
 dev_dependencies:
   flutter_test:
